@@ -1,6 +1,6 @@
 <template lang="pug">
 div.hello
-  h3 This is page one.
+  h3 This is page two.
   button(@click="$router.go(-1)") BACK
 </template>
 
